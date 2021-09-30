@@ -27,6 +27,9 @@
   <a href"" target="_blank"> <img scr"https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </a>
 </div>
 
+  ![giphy](https://user-images.githubusercontent.com/87864802/135545912-aeea084f-77e6-4bcf-b1d1-6bdba93cfc30.gif)
+
+  
 ![Snake animation](https://github.com/paivawes/paivawes/blob/output/github-contribution-grid-snake.svg)
  
 
