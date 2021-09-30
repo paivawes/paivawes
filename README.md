@@ -27,7 +27,7 @@
   <a href"" target="_blank"> <img scr"https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </a>
 </div>
 
-
+![Snake animation] (https://github.com/paivawes)
 
 
 
