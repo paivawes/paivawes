@@ -17,7 +17,7 @@
   <img align="center" alt="wes-angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="wes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="wes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px" src="https://i.imgur.com/vVTP9KK.gif">
  </div> 
   
 ##
@@ -27,7 +27,7 @@
   <a href"" target="_blank"> <img scr"https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </a>
 </div>
 
-  ![giphy](https://user-images.githubusercontent.com/87864802/135545912-aeea084f-77e6-4bcf-b1d1-6bdba93cfc30.gif)
+
 
   
 ![Snake animation](https://github.com/paivawes/paivawes/blob/output/github-contribution-grid-snake.svg)
