@@ -5,9 +5,10 @@ function dev(name, age, work) {
         this.name = name;
         this.age = age;
         this.work = work;
-      }
-      const wesPaiva = new dev('Weslley Paiva', 23, 'Front-end developer at Dasa');
-      console.log(wesPaiva);
+}
+
+const wesPaiva = new dev('Weslley Paiva', 23, 'Front-end developer at Dasa');
+console.log(wesPaiva);
 </pre>
 
 <br>
