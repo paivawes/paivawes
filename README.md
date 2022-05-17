@@ -13,7 +13,7 @@ console.log(wesPaiva);
 
 <br>
 
-<div style="display: flex,"><br>
+<div style="display: space-between" align="center"><br>
   <img align="center" alt="wes-java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
   <img align="center" alt="wes-js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="wes-ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
@@ -34,8 +34,8 @@ console.log(wesPaiva);
 
 <div align="center"><br>
   <a href="https://github.com/paivawes">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=paivawes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paivawes&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=paivawes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paivawes&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
