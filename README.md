@@ -7,7 +7,7 @@ function dev(name, age, work) {
         this.work = work;
 }
 
-const wesPaiva = new dev('Weslley Paiva', 23, 'Front-end developer at Dasa');
+const wesPaiva = new dev('Weslley Paiva', 24, 'Front-end developer at Dasa');
 console.log(wesPaiva);
 </pre>
 
@@ -18,7 +18,7 @@ console.log(wesPaiva);
   <img align="center" alt="wes-js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="wes-ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="wes-react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="wes-nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg">
+  <img align="center" alt="wes-nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="wes-angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="wes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="wes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
@@ -27,7 +27,7 @@ console.log(wesPaiva);
   <img align="center" alt="wes-spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" alt="wes-bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   
-  
+  <br></br>
   <a href="https://www.linkedin.com/in/paivawes/" target="_blank"> <img  align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  </div> 
 
