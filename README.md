@@ -7,7 +7,7 @@ function dev(name, age, work) {
         this.work = work;
 }
 
-const wesPaiva = new dev('Weslley Paiva', 24, 'Front-end developer at Dasa');
+const wesPaiva = new dev('Weslley Paiva', 25, 'Front-end developer');
 console.log(wesPaiva);
 </pre>
 
